@@ -11,7 +11,7 @@ body {
   align-items: center;
   width: 100%;
   height: 100vh;
-  flex-direction: column; /* Change layout to column on smaller screens */
+  flex-direction: row; /* Change layout to column on smaller screens */
 }
 
 .title-box {
