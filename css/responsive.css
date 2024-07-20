@@ -110,6 +110,9 @@ body {
 /* Media Queries for Responsiveness */
 
 @media (max-width: 768px) {
+  .box {
+        flex-direction: column;
+    }
   .title-box {
     width: 80%;
     margin-bottom: 20px;
